@@ -1,8 +1,8 @@
 {
-  "name": "money-community",
   "version": "1.0.0",
   "dependencies": {
     "@zeit/next-typescript": "^1.1.1",
+    "axios": "^0.18.0",
     "fork-ts-checker-webpack-plugin": "^1.3.4",
     "next": "^8.1.0",
     "react": "^16.8.6",
